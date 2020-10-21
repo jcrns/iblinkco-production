@@ -35,7 +35,7 @@ INSTALLED_APPS = [
     'service.apps.ServiceConfig',
     'chat.apps.ChatConfig',
     'channels',
-    # 'whitenoise.runserver_nostatic',
+    'whitenoise.runserver_nostatic',
 
     # Django libraries
     'django.contrib.admin',
@@ -190,7 +190,7 @@ r = redis.StrictRedis(connection_pool=POOL)
 
 # Defining for production
 if os.getcwd() =='/app':
-    DEBUG=True
+    DEBUG=False
 
 
 # Stripe
