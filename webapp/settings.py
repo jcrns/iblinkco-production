@@ -19,6 +19,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
 
+django_heroku.settings(locals())
+
 # app = Celery('example')
 # app.conf.update(BROKER_URL=os.environ.get('REDIS_URL'),CELERY_RESULT_BACKEND=os.environ.get('REDIS_URL'))
 
@@ -100,15 +102,14 @@ DATABASES = {
         # 'CONN_MAX_AGE': 10
     }
 }
-db_from_env = dj_database_url.config(ssl_require=False)
-DATABASES['default'].update(db_from_env)
-django_heroku.settings(locals(), logging=not DEBUG, databases=not DEBUG)
+# db_from_env = dj_database_url.config(ssl_require=False)
+# DATABASES['default'].update(db_from_env)
 
 # del DATABASES['default']['OPTIONS']['sslmode']
 
 
-# DATABASES['default']=dj_database_url.config(
-#                             conn_max_age=600, ssl_require=True)
+DATABASES['default']=dj_database_url.config(
+    conn_max_age=600, ssl_require=False)
 
 
 # Password validation
@@ -191,7 +192,7 @@ r = redis.StrictRedis(connection_pool=POOL)
 
 # Defining for production
 if os.getcwd() =='/app':
-    DEBUG=False
+    DEBUG=True
 
 
 # Stripe
