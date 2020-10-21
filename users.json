@@ -1,0 +1,521 @@
+[{
+    "model": "users.profile",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "first_name": "Jayden",
+        "last_name": "Cummings",
+        "language": "English",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": true,
+        "is_manager": false,
+        "is_client": true,
+        "business_name": "iblinkco",
+        "business_type": "Services",
+        "description": "oghauegaeihrugaergsrtgsrtghrtsh",
+        "date_joined": "2020-05-09T23:20:19.679Z",
+        "image": "profile_pics/logo_HYHvQC2.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 2,
+    "fields": {
+        "user": 2,
+        "first_name": "Jayden",
+        "last_name": "Cummings",
+        "language": "English",
+        "date_of_birth": "2000-12-20",
+        "busy": false,
+        "can_post": false,
+        "is_manager": true,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "pgsegrwsrtgsrthsrthrsthtrgqergwaergwsrg",
+        "date_joined": "2020-05-09T23:50:26.671Z",
+        "image": "profile_pics/instagram-256.png",
+        "stripe_user_id": "acct_1GdEJ2Is34Tq03ZL"
+    }
+}, {
+    "model": "users.profile",
+    "pk": 41,
+    "fields": {
+        "user": 41,
+        "first_name": "nani",
+        "last_name": "daddy",
+        "language": "English",
+        "date_of_birth": "2000-06-18",
+        "busy": false,
+        "can_post": false,
+        "is_manager": true,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "bc why not",
+        "date_joined": "2020-05-14T02:50:52.816Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 43,
+    "fields": {
+        "user": 43,
+        "first_name": "Nathan",
+        "last_name": "Ford II",
+        "language": "English",
+        "date_of_birth": "2001-11-27",
+        "busy": false,
+        "can_post": false,
+        "is_manager": true,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "I do social media management in order to promote businesses and get their names out their to different people in different places. My job is to develop content for businesses in order to reach consumers.",
+        "date_joined": "2020-05-14T19:53:54.644Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 45,
+    "fields": {
+        "user": 45,
+        "first_name": "none",
+        "last_name": "none",
+        "language": "none",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": false,
+        "is_manager": false,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "none",
+        "date_joined": "2020-05-15T07:14:25.393Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 48,
+    "fields": {
+        "user": 48,
+        "first_name": "Brandyn",
+        "last_name": "Downey",
+        "language": "English",
+        "date_of_birth": "2001-07-26",
+        "busy": false,
+        "can_post": false,
+        "is_manager": true,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "I am interested in this business opportunity.",
+        "date_joined": "2020-05-16T07:42:03.193Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 49,
+    "fields": {
+        "user": 49,
+        "first_name": "none",
+        "last_name": "none",
+        "language": "none",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": false,
+        "is_manager": false,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "none",
+        "date_joined": "2020-05-17T00:29:57.434Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 50,
+    "fields": {
+        "user": 50,
+        "first_name": "Ronald",
+        "last_name": "Bolden III",
+        "language": "English",
+        "date_of_birth": "2002-03-23",
+        "busy": false,
+        "can_post": false,
+        "is_manager": true,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "I have always loved social media, and spend hours on it every day. Having such an affinity to the field has drawn me towards management, and I hope to be able to support you well!",
+        "date_joined": "2020-05-17T00:46:38.126Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": "acct_1GwtoSF32y6iRHR5"
+    }
+}, {
+    "model": "users.profile",
+    "pk": 51,
+    "fields": {
+        "user": 51,
+        "first_name": "Sujal",
+        "last_name": "Jain",
+        "language": "English",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": false,
+        "is_manager": false,
+        "is_client": true,
+        "business_name": "The Managing Partners",
+        "business_type": "Other",
+        "description": ".....",
+        "date_joined": "2020-05-18T11:57:46.528Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 52,
+    "fields": {
+        "user": 52,
+        "first_name": "none",
+        "last_name": "none",
+        "language": "none",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": false,
+        "is_manager": false,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "none",
+        "date_joined": "2020-05-18T12:52:12.423Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 53,
+    "fields": {
+        "user": 53,
+        "first_name": "Miles",
+        "last_name": "Franklin",
+        "language": "English",
+        "date_of_birth": "2000-06-20",
+        "busy": false,
+        "can_post": false,
+        "is_manager": true,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "I do social media management to help connect companies to customers to help them build a strong reliable bond.",
+        "date_joined": "2020-05-20T21:11:31.337Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 55,
+    "fields": {
+        "user": 55,
+        "first_name": "Goyotsetseg",
+        "last_name": "Davgadorj",
+        "language": "English",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": false,
+        "is_manager": false,
+        "is_client": true,
+        "business_name": "Casino",
+        "business_type": "Services",
+        "description": "I\u2019m bartender and serving drinks.",
+        "date_joined": "2020-05-24T05:34:26.537Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 56,
+    "fields": {
+        "user": 56,
+        "first_name": "none",
+        "last_name": "none",
+        "language": "none",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": false,
+        "is_manager": false,
+        "is_client": true,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "none",
+        "date_joined": "2020-05-24T05:35:49.290Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 57,
+    "fields": {
+        "user": 57,
+        "first_name": "D'Juan",
+        "last_name": "Ewing-Smalls",
+        "language": "English",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": false,
+        "is_manager": false,
+        "is_client": true,
+        "business_name": "KOD BEats",
+        "business_type": "Art & Entertainment",
+        "description": "I am a music producer. I sell beats and offer recording and mixing and mastering services",
+        "date_joined": "2020-05-25T23:37:18.930Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 58,
+    "fields": {
+        "user": 58,
+        "first_name": "Jonas",
+        "last_name": "Willett",
+        "language": "English",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": false,
+        "is_manager": true,
+        "is_client": false,
+        "business_name": "Jonas Willett",
+        "business_type": "Services",
+        "description": "I plan to cultivate businesses through social media while practicing transparency, positivity, and consistent growth. I will work to increase brand awareness and community engagement with all partners.",
+        "date_joined": "2020-05-28T06:51:19.910Z",
+        "image": "profile_pics/IMG_2003.JPG",
+        "stripe_user_id": "acct_1GwvUQEl5yAPQkx9"
+    }
+}, {
+    "model": "users.profile",
+    "pk": 59,
+    "fields": {
+        "user": 59,
+        "first_name": "none",
+        "last_name": "none",
+        "language": "none",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": false,
+        "is_manager": false,
+        "is_client": true,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "none",
+        "date_joined": "2020-05-28T13:35:57.063Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 60,
+    "fields": {
+        "user": 60,
+        "first_name": "none",
+        "last_name": "none",
+        "language": "none",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": false,
+        "is_manager": false,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "none",
+        "date_joined": "2020-05-28T13:39:19.768Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 61,
+    "fields": {
+        "user": 61,
+        "first_name": "Louis",
+        "last_name": "Johnson",
+        "language": "English",
+        "date_of_birth": null,
+        "busy": true,
+        "can_post": true,
+        "is_manager": false,
+        "is_client": true,
+        "business_name": "SankofaMaat Online Tutoring Program",
+        "business_type": "Other",
+        "description": "My Business offers Holistic tutoring in areas of math, science, and spirituality. My goal with social media is to market my program and gain more clients to work with on a year-round basis.",
+        "date_joined": "2020-05-30T04:23:31.431Z",
+        "image": "profile_pics/Screen_Shot_2019-09-10_at_1.06.32_PM.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 63,
+    "fields": {
+        "user": 63,
+        "first_name": "none",
+        "last_name": "none",
+        "language": "none",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": false,
+        "is_manager": false,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "none",
+        "date_joined": "2020-06-02T19:21:44.108Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 66,
+    "fields": {
+        "user": 66,
+        "first_name": "Vanessa",
+        "last_name": "Williams",
+        "language": "English",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": true,
+        "is_manager": false,
+        "is_client": true,
+        "business_name": "Perfection",
+        "business_type": "Tech",
+        "description": "Women and people of color get less frequent, lower quality, and more critical feedback than their peers. Perfection aims to fix that. We are an assistant coach for managers. We take a data-driven approach to performance management to help managers be a better coach for your team by increasing fairness and efficiency",
+        "date_joined": "2020-06-22T00:30:14.908Z",
+        "image": "profile_pics/Perfection_Logo2.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 69,
+    "fields": {
+        "user": 69,
+        "first_name": "none",
+        "last_name": "none",
+        "language": "none",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": false,
+        "is_manager": false,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "none",
+        "date_joined": "2020-06-22T08:48:29.665Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 70,
+    "fields": {
+        "user": 70,
+        "first_name": "Lenae",
+        "last_name": "Hunter",
+        "language": "English",
+        "date_of_birth": "2001-08-13",
+        "busy": false,
+        "can_post": false,
+        "is_manager": true,
+        "is_client": false,
+        "business_name": "none",
+        "business_type": "none",
+        "description": "Hi my name is Lenae and I work in social media management. I have chosen to specialize in social media because I believe social media is a great way for small businesses to be promoted because of how much social media is used in today's society. I would like to help small businesses become successful in any way I can.",
+        "date_joined": "2020-07-04T10:27:42.998Z",
+        "image": "profile_pics/455F8A7C-965D-4A81-801D-6DFE30ABCCF0.jpeg",
+        "stripe_user_id": "acct_1H18BeG6A75aAf08"
+    }
+}, {
+    "model": "users.profile",
+    "pk": 71,
+    "fields": {
+        "user": 71,
+        "first_name": "Simran",
+        "last_name": "Kaur",
+        "language": "English",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": true,
+        "is_manager": false,
+        "is_client": true,
+        "business_name": "NihaLife Insurance and Financial Solutions",
+        "business_type": "Services",
+        "description": "Our goal is to educate people about financial literacy.",
+        "date_joined": "2020-07-07T23:28:54.863Z",
+        "image": "profile-blank.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 72,
+    "fields": {
+        "user": 72,
+        "first_name": "Skull",
+        "last_name": "Smith",
+        "language": "English",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": true,
+        "is_manager": false,
+        "is_client": true,
+        "business_name": "Skull Smith",
+        "business_type": "Art & Entertainment",
+        "description": "Musical artist",
+        "date_joined": "2020-07-11T01:34:52.300Z",
+        "image": "profile_pics/IMG_20200523_223236_526.jpg",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 74,
+    "fields": {
+        "user": 74,
+        "first_name": "Halston",
+        "last_name": "Chapman",
+        "language": "English",
+        "date_of_birth": null,
+        "busy": false,
+        "can_post": true,
+        "is_manager": false,
+        "is_client": true,
+        "business_name": "De Circa '96, Inc. --DBA Solidaritree",
+        "business_type": "Other",
+        "description": "Solidaritree is licensed a cannabis flower brand that will donate a portion of proceeds from sales to local community orgs. Its core to the brand identiy to emphasize collective power among small cananbis operators, social justice/equity, resitance to corporate cannabis culture, and the power of the herb to bring people together and question society.",
+        "date_joined": "2020-07-15T00:25:45.027Z",
+        "image": "profile_pics/full_color.png",
+        "stripe_user_id": ""
+    }
+}, {
+    "model": "users.profile",
+    "pk": 106,
+    "fields": {
+        "user": 106,
+        "first_name": "Jasmine",
+        "last_name": "Stallworth",
+        "language": "English",
+        "date_of_birth": null,
+        "busy": true,
+        "can_post": true,
+        "is_manager": false,
+        "is_client": true,
+        "business_name": "NoBAWC",
+        "business_type": "Other",
+        "description": "The Network of Bay Area Worker Cooperatives or NoBAWC is a grassroots organization of democratic workplaces dedicated to building workplace democracy in the San Francisco Bay Area and beyond. NoBAWC is comprised primarily of worker cooperatives.\r\n\r\nIn addition to worker cooperatives, NoBAWC includes many Bay Area workplaces that incorporate democratic principles even though they do not totally satisfy the above definition of a worker cooperative. These include workplaces in transition toward becoming worker cooperatives and those that are democratically run but not worker-owned. This latter category includes consumer cooperatives and non-profits that are democratically run by their staffs.",
+        "date_joined": "2020-08-13T22:15:02.266Z",
+        "image": "profile_pics/NoBAWC_logo_slim.png",
+        "stripe_user_id": ""
+    }
+}]
