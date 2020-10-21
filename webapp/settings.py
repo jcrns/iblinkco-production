@@ -19,8 +19,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
 
-django_heroku.settings(locals())
-
 # app = Celery('example')
 # app.conf.update(BROKER_URL=os.environ.get('REDIS_URL'),CELERY_RESULT_BACKEND=os.environ.get('REDIS_URL'))
 
@@ -102,14 +100,14 @@ DATABASES = {
         # 'CONN_MAX_AGE': 10
     }
 }
-# db_from_env = dj_database_url.config(ssl_require=False)
-# DATABASES['default'].update(db_from_env)
+db_from_env = dj_database_url.config(ssl_require=False)
+DATABASES['default'].update(db_from_env)
 
 # del DATABASES['default']['OPTIONS']['sslmode']
 
 
-DATABASES['default']=dj_database_url.config(
-    conn_max_age=600, ssl_require=False)
+# DATABASES['default']=dj_database_url.config(
+#                             conn_max_age=600, ssl_require=True)
 
 
 # Password validation
@@ -212,3 +210,6 @@ DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 CELERY_BROKER_URL = os.environ.get('CELERY_BROKER_URL')
 CELERY_ACCEPT_CONTENT = ['json']
 CELERY_TASK_SERIALIZER = 'json'
+
+
+django_heroku.settings(locals())
