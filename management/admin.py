@@ -13,5 +13,5 @@ class ManagerEvaluationAdmin(admin.ModelAdmin):
 
 
 admin.site.register(ManagerEvaluation, ManagerEvaluationAdmin)
-admin.site.register(ManagerBiases)
+# admin.site.register(ManagerBiases)
 admin.site.register(ManagerPreference)
