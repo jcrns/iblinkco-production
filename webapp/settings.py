@@ -93,30 +93,30 @@ WSGI_APPLICATION = 'webapp.wsgi.application'
 
 # conn = psycopg2.connect('django.db.backends.sqlite3', sslmode='require')
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-#         # 'CONN_MAX_AGE': 10
-#     }
-# }
-# db_from_env = dj_database_url.config(ssl_require=False)
-# DATABASES['default'].update(db_from_env)
-
-
-in_heroku = False
-if 'DATABASE_URL' in os.environ:
-    in_heroku = True
-
-if in_heroku:
-    DATABASES = {'default': dj_database_url.config()}
-else:
-    DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.sqlite3',
-            'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-        }
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        # 'CONN_MAX_AGE': 10
     }
+}
+db_from_env = dj_database_url.config(ssl_require=False)
+DATABASES['default'].update(db_from_env)
+
+
+# in_heroku = False
+# if 'DATABASE_URL' in os.environ:
+#     in_heroku = True
+
+# if in_heroku:
+#     DATABASES = {'default': dj_database_url.config()}
+# else:
+#     DATABASES = {
+#         'default': {
+#             'ENGINE': 'django.db.backends.sqlite3',
+#             'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#         }
+#     }
 
 
 # del DATABASES['default']['OPTIONS']['sslmode']
