@@ -1,0 +1,162 @@
+[
+   {
+      "model":"management.managerevaluation",
+      "pk":1,
+      "fields":{
+         "manager":2,
+         "evaluation_started":true,
+         "accepted":true,
+         "declined":false,
+         "evaluation_completed":true,
+         "answer_one_caption_one":"klhugkyfutdyrtufyiguohi",
+         "answer_one_caption_two":"k;hugiyftdyrtufyiguohi",
+         "answer_one_caption_three":"knljkjgcfxgytfuyig",
+         "answer_two_caption":"lugyfuyfxryfyiguoygiyfutdyrtfo",
+         "answer_two_what_are_problems":",jbkhvjrstydtufyiuoyiuiyfutdyfoy8u",
+         "answer_two_img":"default.jpg",
+         "answer_three_caption":"kohuigyuftydrtse5as6rdtufyiguohipjyuot7iruyset",
+         "answer_three_img":"application_pics/twitter-64.png",
+         "choose_job":false
+      }
+   },
+   {
+      "model":"management.managerevaluation",
+      "pk":37,
+      "fields":{
+         "manager":43,
+         "evaluation_started":true,
+         "accepted":false,
+         "declined":false,
+         "evaluation_completed":false,
+         "answer_one_caption_one":"none",
+         "answer_one_caption_two":"none",
+         "answer_one_caption_three":"none",
+         "answer_two_caption":"none",
+         "answer_two_what_are_problems":"none",
+         "answer_two_img":"default.jpg",
+         "answer_three_caption":"none",
+         "answer_three_img":"default.jpg",
+         "choose_job":false
+      }
+   },
+   {
+      "model":"management.managerevaluation",
+      "pk":45,
+      "fields":{
+         "manager":48,
+         "evaluation_started":true,
+         "accepted":true,
+         "declined":false,
+         "evaluation_completed":true,
+         "answer_one_caption_one":"Art is studied and learned \r\n#bay area \r\n#photography",
+         "answer_one_caption_two":"Colors are how we see the world at McDermott\r\n#create\r\n#imagine",
+         "answer_one_caption_three":"Art can be anything even through designing events. \r\n#party\r\n#artwork",
+         "answer_two_caption":"Cat of the day\r\nWe post the cutest cats \r\n#catlovers\r\n#cutecats",
+         "answer_two_what_are_problems":"I notice they tagged party which doesn\u2019t match with the theme of the post.\r\nIn the second one there is a period where there should be a comma",
+         "answer_two_img":"application_pics/09DF6670-DD9C-453D-B9A8-5B84947A4308.jpeg",
+         "answer_three_caption":"Fixmykix Has restored yet another pair of white Air Force ones to as if they were brand new. Follow us and DM to place an order.\r\n\r\n#fixedshoes\r\n#goodasnew\r\n#restoredshoes\r\n#af1\r\n#nike",
+         "answer_three_img":"application_pics/976397AE-7CEE-4C16-80B2-DAC2E8716744.jpeg",
+         "choose_job":false
+      }
+   },
+   {
+      "model":"management.managerevaluation",
+      "pk":46,
+      "fields":{
+         "manager":50,
+         "evaluation_started":true,
+         "accepted":true,
+         "declined":false,
+         "evaluation_completed":true,
+         "answer_one_caption_one":"Wow! What a beautiful photo of the desk exhibit at the Local Art History Event! Don't miss this week-long Berkely Local Art History Event!\r\n\r\n#art #local #bay #bayare #desk #exhibit #berkely #emeryville #explore #featured #like #follow #foryou #subscripe #art #local #history",
+         "answer_one_caption_two":"Come to the Local Art History Event in Berkeley, California on Tuesday, May 19th for free painting lessons! Visit the exhibit from 4-6 PM to be taught by the Bay Area's own Famous P. Ainter!\r\n\r\n#bay #bayarea #berekely #paint #art #local #localbusiness #creative #free #famous #famouspainter #foryou #like #follow #explore #art #history",
+         "answer_one_caption_three":"Don't miss the beautiful Gala next Friday at the  Berkeley Local Art History Event! Click the link below to purchase tickets! They're going fast!\r\n\r\n//link would be here\r\n#bay #bayarea #gala #art #local #localbusiness #dinner #5star #like #follow #expierience #foryou #explore #history #nicefood #food #goodfood #eat",
+         "answer_two_caption":"This is Muffins! The cat of our very own Dr. Vetenarian! He wants us to tell everyone that his personal favorite cat food is Super Elite Cat Food 9000! Dr. Vetenarian agrees with the suggestion, and wants to remind everyone to make sure to wash their cats daily with Cat Cleaner brand soap to help reduce the risk of any contamination. Don't forget gloves!\r\n#cat #la #lacat #lacats #losangeles #losangelescat #losangelescats #kitten #vet #dog #vet #veternarian #covid19 #staysafe #boredinthehouseandiminthehousebored #follow #like #explore",
+         "answer_two_what_are_problems":"they put @party for seemingly no reason. They only had two hashtags. They also could have put a better photo.\r\n-----------------------------------------------------------\r\nBad grammar in the caption. Again only two hashtags. They also should have explained the best soaps they should use to clean their cats.",
+         "answer_two_img":"application_pics/catphoto.jpeg",
+         "answer_three_caption":"Do you have dirty shoes? Are you tired of buying the same pair of shoes as everyone else? Well, you're in luck, because FixMyKick is here to save the day. Visit the site to get connected instantly with a local shoe cleaner or customizer to solve all your shoe-related needs! Navigate to  fixmykix.com or click the link in our bio to see for yourself!\r\n\r\n#shoes #jordans #custom #shoes #customshoes #jays #js #nike #vans #fixmykix #dirtyshoes #shoecleaning #cleanshoes #shoecleaner #follow #like #explore \r\n\r\n\r\n//I don't understand what file im supposed to attach here\r\n'",
+         "answer_three_img":"default.jpg",
+         "choose_job":false
+      }
+   },
+   {
+      "model":"management.managerevaluation",
+      "pk":47,
+      "fields":{
+         "manager":41,
+         "evaluation_started":true,
+         "accepted":false,
+         "declined":false,
+         "evaluation_completed":false,
+         "answer_one_caption_one":"none",
+         "answer_one_caption_two":"none",
+         "answer_one_caption_three":"none",
+         "answer_two_caption":"none",
+         "answer_two_what_are_problems":"none",
+         "answer_two_img":"default.jpg",
+         "answer_three_caption":"none",
+         "answer_three_img":"default.jpg",
+         "choose_job":false
+      }
+   },
+   {
+      "model":"management.managerevaluation",
+      "pk":48,
+      "fields":{
+         "manager":53,
+         "evaluation_started":true,
+         "accepted":true,
+         "declined":false,
+         "evaluation_completed":true,
+         "answer_one_caption_one":"This up coming week we are happy to announce that we will be hosting a local art history event. To spread knowledge and inspiration to our friends and family. \r\n#art #artislife #knowledge",
+         "answer_one_caption_two":"Join us next week for our local art history event next week from *blank to blank*. Feel free to bring a few friends. \r\n#art #artislife #friends",
+         "answer_one_caption_three":"Did you hear the news?! This following week we will be teaching friends and family about their local art history. \r\n#artiscool #art #bestart",
+         "answer_two_caption":"This pandemic has been hard on everyone but we want you to know that we are here to help you through these hard times.\r\n#staystrong #cats #catlover #catvet #covid",
+         "answer_two_what_are_problems":"The date is wrong in the first post COVID didn't start to effect California until February 2nd. And if that isn't a mistake the. They need to post more consistently.",
+         "answer_two_img":"application_pics/944C3853-384A-4525-A46D-BA2CDC3A1F3F_QniNaxy.jpeg",
+         "answer_three_caption":"Getting clowned for your poor shoe game? Don't worry we got you at FIXMYKIX we take care of just that. we do cleaning, shoe repair, repaint, and art. That's right, shoe art. Our goal is to help help out our customers so they feel comfortable and confident.",
+         "answer_three_img":"application_pics/A42C7A8B-3C57-420D-B7FA-4674932130FC.jpeg",
+         "choose_job":false
+      }
+   },
+   {
+      "model":"management.managerevaluation",
+      "pk":51,
+      "fields":{
+         "manager":58,
+         "evaluation_started":true,
+         "accepted":true,
+         "declined":false,
+         "evaluation_completed":true,
+         "answer_one_caption_one":"Calling all Bay Area artists, art lovers, and art history lovers! Come join us for our local art history event next week and support your local artist community! \r\nShoutout to the artist whose featured work is shown here! \r\n#McDermottInc #McDermottArt #BayArea #BayAreaArt #BayAreaInnovation #BayAreaCommunity #Local #ArtHistory  #History #Knowledge #Global #Art",
+         "answer_one_caption_two":"Come learn, come be inspired, come for fun! We are hosting a local art history event next week. Please come join us! Have lots of fun while simultaneously learning and supporting local Bay Area artists!\r\nShoutout to the artist whose featured work is shown here! \r\n#McDermottInc #McDermottArt #BayArea #BayAreaArt #BayAreaInnovation #BayAreaCommunity #Local #Paint #BayAreaPainting #VibrantColors #Art #Creativity",
+         "answer_one_caption_three":"Come wine and dine with us at our local art history event! We will have an exclusive guest speaker discussing the importance of art history and promoting art in the community. Please come to support our organization and our speaker! \r\nShoutout to the artist whose featured work is shown here!\r\n#McDermottInc #McDermottArt #BayArea #BayAreaArt #BayAreaInnovation #BayAreaCommunity #Local #ArtConnoisseurs #Formal #WineAndDine #FineArt #Art",
+         "answer_two_caption":"Hello Pet Owners!  We know taking care of pets isn't always easy and especially not during these unprecedented and uncertain times. While we miss the face to face engagement with each of you, we cannot help anyone in person. However, we want to provide as much support as possible by providing consistent information regarding taking care of your animals while at home!  Stay tuned for new tips and strategies and stay safe!\r\n#Covid19 #Qurantine #StaySafe #LACats  #Cat #Animals #LAPets #Pets #AnimalCare #AnimalHealth #AnimalSafety",
+         "answer_two_what_are_problems":"- \"The\" could be changed to \"Our\" because it is their organization's account\r\n- Use more engaging words or verbs to describe the situation\r\nEx: \"Unfortunately .... \"\r\n- Bring the audience in with a more inviting action step\r\nEx: \"We know taking care of pets isn't always easy, and with the pandemic, doing so is likely even more stressful. In order to support our resilient pet owners, we will be posting....\"\r\n- The date says October 21, 2019? Maybe this is a mistake or needs to be reposted in order to be more relevant\r\n- Only two hashtags, and the same ones on both posts\r\n- The number of likes on the most recent photo has decreased, showing less engagement\r\n- The second photo does little to connect with the audience and just states the message\r\n- There is a typo in the last sentence with an extra period",
+         "answer_two_img":"application_pics/Cat_photo_iblinkco.jpeg",
+         "answer_three_caption":"Enjoy fashion? Consider yourself a sneakerhead? Want to make money by customizing or restoring shoes? At Fixmykix, we provide a global platform for shoe restoration and shoe art. We offer a variety of services including:\r\nBasic/ Spot cleaning\r\nDe-oxidation (Un-yellowing)\r\nReglue\r\nRepaint\r\nShoe art\r\nWhy is this work important? We live in a world where fast fashion is the leading contributor to landfill waste and it\u2019s our responsibility to find a way to extend the life cycle of these products. Through our restoration, we can do exactly that!\r\n#Fixmykix #FashionRestoration #SneakerRestoration #Fashion #Art #Sneakers #SneakerHead #Restoration #OaklandBased #CustomSneakers #CustomArt #SpotClean #Deoxidation #ReGlue #RePaint #ShoeArt",
+         "answer_three_img":"application_pics/1200x630_fixkix.jpg",
+         "choose_job":false
+      }
+   },
+   {
+      "model":"management.managerevaluation",
+      "pk":54,
+      "fields":{
+         "manager":70,
+         "evaluation_started":true,
+         "accepted":true,
+         "declined":false,
+         "evaluation_completed":true,
+         "answer_one_caption_one":"Are you interested in gaining some knowledge one historical art? Come and join us next week at the local art history event, hosted by McDermott Inc., as we showcase many artists and writers from the bay area and their mass amount of creativity and individuality in each of their pieces. \r\n\r\n#history #art #individual #writer #bay #bayarea #mcdermottinc",
+         "answer_one_caption_two":"SAVE THE DATE! Join #McDermottInc in next week's local art history event, as we showcase several new and original art pieces created by members in bay area communities. \r\n\r\n#art #creativity #innovation #bayarea",
+         "answer_one_caption_three":"Look at how beautifully this table has been set up. Interested in seeing many more well-thought out and designed pieces? Then you may be interested in getting to know several artists within bay area communities who work very hard to create such amazing things. Join us next week at our local art history event which will be hosted by McDermott Inc. \r\n\r\n#artists #design #creativity #abstract",
+         "answer_two_caption":"Hello fellow cat lovers! Although these are some difficult and uncertain times we are facing, the Los Angeles Cat Vet would like you to know that we are still going to do our best to ensure that our  little bundles of fur can be safe and cared for from home. Everyday we will be posting new information about what to do if there are any problems with your kitties and how you can solve them from home. Thank you all we hope to see you soon. Stay safe! \r\n\r\n#cats #catvet #losangeles #lacats #covid19 #kittens #vet",
+         "answer_two_what_are_problems":"1. The posts should be more so talking about how to keep your cats healthy and not \"you and your cat clean\". Although cleaning is important there should be more information about how to make sure your cat is healthy and what to do if they get sick or tips to making sure you and the cat are safe in your home. \r\n2. These pictures are very good quality, however, I think there should be pictures of the cats looking happier so it shows more of a happier light that everything will be okay instead of them just staring \r\n3. Some of the punctuation and spelling could be better\r\n4. more hashtags",
+         "answer_two_img":"application_pics/Happy-Cat-768x513.jpg",
+         "answer_three_caption":"Have you been wearing some of the same boring shoes? Are you interested in spicing up your wardrobe? @Fixmykix can help you turn some old, worn out, and dirty shoes into some new, revamped, freshly designed shoes to help spice up any of your fits. To get in contact with us you can call our number (510) 689-4282 or email us at JAMESG@FIXMYKIX.COM for more information on how to fix your kicks! \r\n\r\n#shoes #shoeservices #fixmykix #oakland #shoerestoration #shoeart #art #clean",
+         "answer_three_img":"application_pics/maxresdefault.jpg",
+         "choose_job":false
+      }
+   }
+]
