@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import ManagerEvaluation, ManagerPreference, ManagerBiases
+from .models import ManagerEvaluation, ManagerPreference#, ManagerBiases
 
 
 class ManagerEvaluationAdmin(admin.ModelAdmin):
