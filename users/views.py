@@ -56,7 +56,7 @@ def registerFunc(request):
         if form.is_valid():
             # Changing is active bool in database to false before committing
             user = form.save(commit=False)
-            user.is_active = False
+            user.is_active = True
             user.save()
 
             # Getting username and email to create message and confirm email
